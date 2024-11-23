@@ -32,7 +32,7 @@ The **Budget Tracker Application** is a simple GUI-based application built using
 ## Installation and Setup
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/budget-tracker.git
+   git clone https://github.com/Garvitsharma-gs/Budget-Tracker-Application
    cd budget-tracker
    ```
 
